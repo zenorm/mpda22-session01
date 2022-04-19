@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 My name is Jinfeng. 
+=======
+My name is David
+>>>>>>> 34447ddddd1bf981bce346884c995ba3e19ed604
